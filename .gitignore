@@ -1,0 +1,6 @@
+# Allure
+tests/allure-results
+allure
+# Idea
+.idea
+
